@@ -1,16 +1,16 @@
 # simi-s-port_f
 
-##Projects
-###Projects 1
+## Projects
+### Projects 1
 -Description
 -Links
 
-###Projects 2
+### Projects 2
 -Description
 -Links
 
-#Education
+# Education
 -High school
 
-#work history
+# work history
 -Work place
